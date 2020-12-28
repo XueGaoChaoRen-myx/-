@@ -1,0 +1,16 @@
+ACT:Action Game
+FTG:Fight Technology Game
+PZL:Puzzle Game
+RAC:Race Game
+AVG:Adventure Game A.AVG:Action Adventure Game
+SPG:Sport Game
+MUG:Music Game
+SIM:Simulation Game
+RTT:Real-Time Tactics
+RTS:Real-Time Strategy
+STG:Shooting Game FPS:First-Person Shooter Game
+TAB:Table
+CAG:Card Game TCG:Trading Card Game
+RPG ARPG TRPG SRPG MMORPG
+ETC
+Online Game

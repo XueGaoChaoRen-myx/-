@@ -1,0 +1,12 @@
+{
+    "Users": [
+            {
+                "Email": "123@qq.com",
+                "Password": "1234567"
+            },
+            {
+                "Email": "1234@qq.com",
+                "Password": "123456"
+            }
+    ]
+}
