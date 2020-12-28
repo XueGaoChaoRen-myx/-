@@ -1,0 +1,348 @@
+{
+    "NewPublishedGames": [
+        {
+            "name": "Warframe",
+            "company": "Digital Extremes | Digital Extremes",
+            "price": "免费",
+            "img": "./static/Shopping list/newPublishedGames/Warframe_DigitalExtremes.jpg"
+        },
+        {
+            "name": "Shady Part of Me",
+            "company": "Douze Dixièmes | Focus Home Interactive",
+            "price": "US$8.09",
+            "img": "./static/Shopping list/newPublishedGames/ShadyPartofMe.jpg"
+        },
+        {
+            "name": "Cyberpunk 2077",
+            "company": "CD PROJEKT RED",
+            "price": "US$43.00",
+            "img": "./static/Shopping list/newPublishedGames/CYBERPUNK2077.jpg"
+        },
+        {
+            "name": "Orwell's Animal Farm",
+            "company": "Nerial | The Dairyme",
+            "price": "US$4.99",
+            "img": "./static/Shopping list/newPublishedGames/OrwellsAnimalFarm.jpg"
+        },
+        {
+            "name": "Chronos: Before the Ashes",
+            "company": "Gunfire Games | THQ Nordic",
+            "price": "US$24.07",
+            "img": "./static/Shopping list/newPublishedGames/ChronosBeforetheAshes.jpg"
+        }
+    ],
+    "BestSellers": [
+        {
+            "name": "Cyberpunk 2077",
+            "company": "CD PROJEKT RED",
+            "price": "US$43.00",
+            "img" : "./static/Shopping list/BestSellerGames/CYBERPUNK2077.jpg"
+        },
+        {
+            "name": "Red Dead Redemption 2",
+            "company": "Rockstar Games",
+            "price": "US$34.99",
+            "img" : "./static/Shopping list/BestSellerGames/RedDeadRedemption.jpg"
+        },
+        {
+            "name": "SnowRunner",
+            "company": "Saber Interactive | Focus Home Interactive",
+            "price": "US$24.99",
+            "img" : "./static/Shopping list/BestSellerGames/SnowRunner.jpg"
+        },
+        {
+            "name": "Grand Theft Auto V",
+            "company": "Rockstar Games",
+            "price": "US$19.99",
+            "img" : "./static/Shopping list/BestSellerGames/GrandTheftAutoV.jpg"
+        },
+        {
+            "name": "Borderlands 3",
+            "company": "Gearbox Software | 2K",
+            "price": "US$29.99",
+            "img" : "./static/Shopping list/BestSellerGames/BorderLand3.jpg"
+        }
+    ],
+    "RecentGames": [
+        {
+            "name": "Through the Darkest Times",
+            "company": "Paitbucket Games | Handy Games GmbH",
+            "price": "US$4.68",
+            "img" : "./static/Shopping list/EpicUploadedGames/ThroughtheDarkestofTimes.jpg"
+        },
+        {
+            "name": "Red Dead Online",
+            "company": "Rockstar Games",
+            "price": "US$4.99",
+            "img" : "./static/Shopping list/EpicUploadedGames/RedDeadOnline.jpg"
+        },
+        {
+            "name": "Evan's Remains",
+            "company": "Maitan69 | Whitethorn Games",
+            "price": "US$3.99",
+            "img" : "./static/Shopping list/EpicUploadedGames/EvansRemains.jpg"
+        },
+        {
+            "name": "Whispers of a Machine",
+            "company": "Clifftop Games | Raw Fury",
+            "price": "US$7.99",
+            "img" : "./static/Shopping list/EpicUploadedGames/whisper of a machine.jpg"
+        },
+        {
+            "name": "CRSED:F.O.A.D",
+            "company": "Darkflow Software | Gaijin Entertainment",
+            "price": "免费",
+            "img" : "./static/Shopping list/EpicUploadedGames/CRSEDFOAD.jpg"
+        }
+    ],
+    "GameList": {
+        "CyberPunk":{
+            "Gamename":"赛博朋克 2077",
+            "RotationChart": {
+                "img1": "./static/Sort/RPG/赛博朋克 2077/pic1.jpg",
+                "img2": "./static/Sort/RPG/赛博朋克 2077/pic2.jpg",
+                "img3": "./static/Sort/RPG/赛博朋克 2077/pic3.jpg"
+            },
+            "AddToShoppingCart":"./static/Shopping list/BestSellerGames/CYBERPUNK2077.jpg",
+            "GamenameInEnglish": "CyberPunk 2077",
+            "GameIntro":"《赛博朋克 2077》是一款开放世界动作冒险游戏，故事发生在夜之城。这是一座五光十色的大都会，权力更迭和身体改造是不变的主题。您扮演一名野心勃勃的雇佣兵：V，正在追寻一种独一无二的植入体。只要得到它，就能掌握获得永生的关键。您可以自定义角色的义体、技能和玩法，探索包罗万象的城市。您做出的选择也将会对剧情和周遭的世界产生影响。",
+            "GamePrice": "43.00",
+            "GameLogo": "./static/Sort/RPG/赛博朋克 2077/gamelogo.png",
+            "Producer": "CD PROJEKT RED",
+            "Publisher": "CD PROJEKT RED",
+            "PublishedDate": "2020年12月10日",
+            "Label": "角色扮演，单人游戏，动作",
+            "JudgeLevel": "—",
+            "Platform": "PC/PS/XBOX",
+            "IntroTitle": "夜之城让你",
+            "IntroDetails":{
+                "text1":"《赛博朋克 2077》是一款开放世界动作冒险游戏，故事发生在夜之城。这是一座五光十色的大都会，权力更迭和身体改造是不变的主题。您扮演一名野心勃勃的雇佣兵：V，正在追寻一种独一无二的植入体。只要得到它，就能掌握获得永生的关键。您可以自定义角色的义体、技能和玩法，探索包罗万象的城市。您做出的选择也将会对剧情和周遭的世界产生影响。",
+                "strong1": "扮演亡命街头的雇佣兵",
+                "text2": "化身装备机械强化义体的城市雇佣兵，成为一名赛博朋克，在夜之城的街头谱写属于您的传奇。",
+                "strong2": "未来都市的街头百态",
+                "text3": "进入夜之城的庞大开放世界。在这里，视觉效果、复杂程度和游戏深度都将得到全新的定义。",
+                "strong3": "盗走能够带来永生的植入体",
+                "text4": "接下有生以来最危险的任务，追寻能够带来永生的原型植入体。"
+            },
+            "MoreDetail":{
+                "title2": "数字周边包括：",
+                "li":{
+                    "text1": "游戏原声",
+                    "text2": "收录游戏原画的原画集",
+                    "text3": "数字漫画《Cyberpunk 2077:Your Voice》",
+                    "text4": "《赛博朋克 2020》 设定集",
+                    "text5": "电脑桌面和手机壁纸"
+                },
+                "DetailPicture":{
+                    "img4": "./static/Sort/RPG/赛博朋克 2077/pic4.jpg",
+                    "img5": "./static/Sort/RPG/赛博朋克 2077/pic5.jpg",
+                    "img6": "./static/Sort/RPG/赛博朋克 2077/pic6.jpg"
+                }
+            },
+            "PlayerComment":{
+                "PlayerID":{
+                    "Player1":"世界顶级的糖豆人",
+                    "Player2":"ME",
+                    "Player3":"kanlaosiji0017",
+                    "Player4":"Surperme",
+                    "Player5":"garfrank",
+                    "Player6":"dogsama狗哥"
+                },
+                "Comments":{
+                    "Com1":"这游戏是CDPR和Nvidia的阴谋",
+                    "Com2":"jack从脖子里拔了把手枪给我，我感动得笑出了声",
+                    "Com3":"它就像包牛肉面，包装袋上牛排又大，配菜又多。打开以后发现...肉小了，菜取消了...虽然也不难吃，只是每次看到包装都有种上当的感觉...",
+                    "Com4":"赛博朋克2077让我想起当年的黑手党2，地图、任务、战斗、收集、剧情各方面都仿佛在说：“这里本来应该很牛逼的，但是来不及做，我们砍了。”但我本来就没期待它会很牛逼，所以依然推荐。好歹是个杀出重围的堆料版。",
+                    "Com5":" 现在的感受，我就是V，我就生活在夜之城。",
+                    "Com6":"我为了她一夜难眠，她为了我BUG难填，我以为她跳票一次两次三次是还未成年，她反拍我一下两下三下是又上了我脸。原打算吹一波，天长地久有时尽，你我此情难怜，现如今只能问，大鸟转转何时停，外面太冷想进。"
+                }
+            }
+        },
+        "Fortnite":{
+            "Gamename":"堡垒之夜",
+            "RotationChart": {
+                "img1": "./static/Sort/FPS/Fortnite/pic1.jpg",
+                "img2": "./static/Sort/FPS/Fortnite/pic2.jpg",
+                "img3": "./static/Sort/FPS/Fortnite/pic3.jpg"
+            },
+            "AddToShoppingCart":"./static/Shopping list/BestSellerGames/CYBERPUNK2077.jpg",
+            "GamenameInEnglish": "Fortnite",
+            "GameIntro":"第2章——第五赛季的搜捕已经开始：零点。与特工琼斯一起召集曼达洛人等现实世界中最伟大的猎手，阻止其他人逃出循环。",
+            "GamePrice": "00.00",
+            "GameLogo": "./static/Sort/FPS/Fortnite/gamelogo.png",
+            "Producer": "CD PROJEKT RED",
+            "Publisher": "CD PROJEKT RED",
+            "PublishedDate": "2020年12月10日",
+            "Label": "角色扮演，单人游戏，动作",
+            "JudgeLevel": "—",
+            "Platform": "PC/PS/XBOX",
+            "IntroTitle": "夜之城让你",
+            "IntroDetails":{
+                "text1":"《赛博朋克 2077》是一款开放世界动作冒险游戏，故事发生在夜之城。这是一座五光十色的大都会，权力更迭和身体改造是不变的主题。您扮演一名野心勃勃的雇佣兵：V，正在追寻一种独一无二的植入体。只要得到它，就能掌握获得永生的关键。您可以自定义角色的义体、技能和玩法，探索包罗万象的城市。您做出的选择也将会对剧情和周遭的世界产生影响。",
+                "strong1": "扮演亡命街头的雇佣兵",
+                "text2": "化身装备机械强化义体的城市雇佣兵，成为一名赛博朋克，在夜之城的街头谱写属于您的传奇。",
+                "strong2": "未来都市的街头百态",
+                "text3": "进入夜之城的庞大开放世界。在这里，视觉效果、复杂程度和游戏深度都将得到全新的定义。",
+                "strong3": "盗走能够带来永生的植入体",
+                "text4": "接下有生以来最危险的任务，追寻能够带来永生的原型植入体。"
+            },
+            "MoreDetail":{
+                "title2": "数字周边包括：",
+                "li":{
+                    "text1": "游戏原声",
+                    "text2": "收录游戏原画的原画集",
+                    "text3": "数字漫画《Cyberpunk 2077:Your Voice》",
+                    "text4": "《赛博朋克 2020》 设定集",
+                    "text5": "电脑桌面和手机壁纸"
+                },
+                "DetailPicture":{
+                    "img4": "./static/Sort/RPG/赛博朋克 2077/pic4.jpg",
+                    "img5": "./static/Sort/RPG/赛博朋克 2077/pic5.jpg",
+                    "img6": "./static/Sort/RPG/赛博朋克 2077/pic6.jpg"
+                }
+            },
+            "PlayerComment":{
+                "PlayerID":{
+                    "Player1":"世界顶级的糖豆人",
+                    "Player2":"ME",
+                    "Player3":"kanlaosiji0017",
+                    "Player4":"Surperme",
+                    "Player5":"garfrank",
+                    "Player6":"dogsama狗哥"
+                },
+                "Comments":{
+                    "Com1":"这游戏是CDPR和Nvidia的阴谋",
+                    "Com2":"jack从脖子里拔了把手枪给我，我感动得笑出了声",
+                    "Com3":"它就像包牛肉面，包装袋上牛排又大，配菜又多。打开以后发现...肉小了，菜取消了...虽然也不难吃，只是每次看到包装都有种上当的感觉...",
+                    "Com4":"赛博朋克2077让我想起当年的黑手党2，地图、任务、战斗、收集、剧情各方面都仿佛在说：“这里本来应该很牛逼的，但是来不及做，我们砍了。”但我本来就没期待它会很牛逼，所以依然推荐。好歹是个杀出重围的堆料版。",
+                    "Com5":" 现在的感受，我就是V，我就生活在夜之城。",
+                    "Com6":"我为了她一夜难眠，她为了我BUG难填，我以为她跳票一次两次三次是还未成年，她反拍我一下两下三下是又上了我脸。原打算吹一波，天长地久有时尽，你我此情难怜，现如今只能问，大鸟转转何时停，外面太冷想进。"
+                }
+            }
+        },
+        "Warframe":{
+            "Gamename":"Warframe",
+            "RotationChart": {
+                "img1": "./static/Sort/RPG/Warframe/img1.jpg",
+                "img2": "./static/Sort/RPG/Warframe/img2.jpg",
+                "img3": "./static/Sort/RPG/Warframe/img3.jpg"
+            },
+            "AddToShoppingCart":"./static/Sort/RPG/Warframe/AddtoCart.jpg",
+            "GamenameInEnglish": "Warframe",
+            "GameIntro":"各大阵营交战不断，让始源星系濒临毁灭。和 Tenno 一起守卫这个不断扩张的宇宙。掌控你的 Warframe，组建你的军械库，在这款定义了刷宝射击类别游戏中所向披靡。",
+            "GamePrice": "0.00",
+            "GameLogo": "./static/Sort/RPG/Warframe/gamelogo.png",
+            "Producer": "Digital Extremes",
+            "Publisher": "Digital Extremes",
+            "PublishedDate": "2020",
+            "Label": "动作,联合行动,射击",
+            "JudgeLevel": "–",
+            "Platform": "PC/PS/XBOX",
+            "IntroTitle": "《Warframe》",
+            "IntroDetails":{
+                "text1":"在此快节奏第三人称多人合作游戏里，与 Tenno 并肩作战。在无序蔓延扩展的始源星系中上膛、装载并且开拓出属于你自己的道路吧。",
+                "strong1": "",
+                "text2": "捍卫始源星系并打造 40 多种可完全自定义的 Warframe，每一款都有自己独特的技能和战术战斗角色，以搭配你的游戏风格。一路砍杀，享受近 30 种不同的玩家对环境游戏模式、故事驱动任务和史诗级电影感任务。",
+                "strong2": "",
+                "text3": "使用侍刃、十字弓、火焰喷射器及更多，打造、改造和自定义你的军械库。升级并掌控 500 多种武器。",
+                "strong3": "",
+                "text4": "穿越无序蔓延扩展的始源星系，探索各种外星世界，每个外星世界都有其独特的环境、繁华的市场和有趣的任务。将战斗力和穿越能力与强大的移动系统结合起来，在动态首领战斗中取胜，穿越险峻的地形，征服具有挑战性的障碍。"
+            },
+            "MoreDetail":{
+                "title2": "数字周边包括：",
+                "li":{
+                    "text1": "游戏原声",
+                    "text2": "收录游戏原画的原画集",
+                    "text3": "数字漫画《Warframe》",
+                    "text4": "《Warframe》 设定集",
+                    "text5": "电脑桌面和手机壁纸"
+                },
+                "DetailPicture":{
+                    "img4": "./static/Sort/RPG/Warframe/img4.jpg",
+                    "img5": "./static/Sort/RPG/Warframe/img5.jpg",
+                    "img6": "./static/Sort/RPG/Warframe/img6.jpg"
+                }
+            },
+            "PlayerComment":{
+                "PlayerID":{
+                    "Player1":"世界顶级的糖豆人",
+                    "Player2":"ME",
+                    "Player3":"kanlaosiji0017",
+                    "Player4":"Surperme",
+                    "Player5":"garfrank",
+                    "Player6":"dogsama狗哥"
+                },
+                "Comments":{
+                    "Com1":"这游戏是CDPR和Nvidia的阴谋",
+                    "Com2":"jack从脖子里拔了把手枪给我，我感动得笑出了声",
+                    "Com3":"它就像包牛肉面，包装袋上牛排又大，配菜又多。打开以后发现...肉小了，菜取消了...虽然也不难吃，只是每次看到包装都有种上当的感觉...",
+                    "Com4":"赛博朋克2077让我想起当年的黑手党2，地图、任务、战斗、收集、剧情各方面都仿佛在说：“这里本来应该很牛逼的，但是来不及做，我们砍了。”但我本来就没期待它会很牛逼，所以依然推荐。好歹是个杀出重围的堆料版。",
+                    "Com5":" 现在的感受，我就是V，我就生活在夜之城。",
+                    "Com6":"我为了她一夜难眠，她为了我BUG难填，我以为她跳票一次两次三次是还未成年，她反拍我一下两下三下是又上了我脸。原打算吹一波，天长地久有时尽，你我此情难怜，现如今只能问，大鸟转转何时停，外面太冷想进。"
+                }
+            }
+        },
+        "CaveStory":{
+            "Gamename":"Cave Story+",
+            "RotationChart": {
+                "img1": "./static/Sort/ACT/Cave Story/pic1.jpg",
+                "img2": "./static/Sort/ACT/Cave Story/pic2.jpg",
+                "img3": "./static/Sort/ACT/Cave Story/pic3.jpg"
+            },
+            "AddToShoppingCart":"./static/Sort/ACT/Cave Story/game.jpg",
+            "GamenameInEnglish": "Cave Story+",
+            "GameIntro":"《Cave Story+》可被称作是最令人广泛所知的独立制作游戏，以其原创的独特神秘故事情节以及快节奏游玩风格而闻名。在这款令人回想起古典 8 位及 16 位风格的游戏中，奔跑、跳跃、射击和飞行，来展开一场巨大的冒险吧！",
+            "GamePrice": "5.99",
+            "GameLogo": "./static/Sort/ACT/Cave Story/gamelogo.png",
+            "Producer": "Nicalis, Inc./Studio Pixel",
+            "Publisher": "Nicalis, Inc.",
+            "PublishedDate": "2020年12月4日",
+            "Label": "冒险,动作,平台游戏",
+            "JudgeLevel": "–",
+            "Platform": "PC",
+            "IntroTitle": "",
+            "IntroDetails":{
+                "text1":"",
+                "strong1": "",
+                "text2": "",
+                "strong2": "",
+                "text3": "",
+                "strong3": "",
+                "text4": ""
+            },
+            "MoreDetail":{
+                "title2": "数字周边包括：",
+                "li":{
+                    "text1": "游戏原声",
+                    "text2": "收录游戏原画的原画集",
+                    "text3": "数字漫画《Cave Story+》",
+                    "text4": "《Cave Story+》 设定集",
+                    "text5": "电脑桌面和手机壁纸"
+                },
+                "DetailPicture":{
+                    "img4": "./static/Sort/ACT/Cave Story/pic4.jpg",
+                    "img5": "./static/Sort/ACT/Cave Story/pic5.jpg",
+                    "img6": "./static/Sort/ACT/Cave Story/pic6.jpg"
+                }
+            },
+            "PlayerComment":{
+                "PlayerID":{
+                    "Player1":"世界顶级的糖豆人",
+                    "Player2":"ME",
+                    "Player3":"kanlaosiji0017",
+                    "Player4":"Surperme",
+                    "Player5":"garfrank",
+                    "Player6":"dogsama狗哥"
+                },
+                "Comments":{
+                    "Com1":"这游戏是CDPR和Nvidia的阴谋",
+                    "Com2":"jack从脖子里拔了把手枪给我，我感动得笑出了声",
+                    "Com3":"它就像包牛肉面，包装袋上牛排又大，配菜又多。打开以后发现...肉小了，菜取消了...虽然也不难吃，只是每次看到包装都有种上当的感觉...",
+                    "Com4":"赛博朋克2077让我想起当年的黑手党2，地图、任务、战斗、收集、剧情各方面都仿佛在说：“这里本来应该很牛逼的，但是来不及做，我们砍了。”但我本来就没期待它会很牛逼，所以依然推荐。好歹是个杀出重围的堆料版。",
+                    "Com5":" 现在的感受，我就是V，我就生活在夜之城。",
+                    "Com6":"我为了她一夜难眠，她为了我BUG难填，我以为她跳票一次两次三次是还未成年，她反拍我一下两下三下是又上了我脸。原打算吹一波，天长地久有时尽，你我此情难怜，现如今只能问，大鸟转转何时停，外面太冷想进。"
+                }
+            }
+        }
+    }
+}
